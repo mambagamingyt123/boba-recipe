@@ -1,0 +1,39 @@
+body {
+    background-color: #fff8dc;
+    font-family: Comic Sans MS, Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #ff4500;
+    background-color: #ffe4e1;
+    border: 3px dashed #ff69b4;
+    padding: 10px;
+}
+
+h2 {
+    color: green;
+    text-decoration: underline;
+}
+
+.recipe {
+    background-color: #e6ffe6;
+    border: 2px solid green;
+    margin: 20px;
+    padding: 15px;
+}
+
+ul {
+    text-align: left;
+    display: inline-block;
+}
+
+p {
+    font-size: 16px;
+}
+
+footer {
+    margin-top: 30px;
+    font-size: 12px;
+    color: purple;
+}
